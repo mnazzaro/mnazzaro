@@ -1,5 +1,5 @@
-Software engineer at Hadrius
+CTO @ Compyle
 
-Cloud, ML, data science, sports forecasting, and more!
+Building the future of building
 
-Contact me at marknazzaro2@gmail.com
+Contact me at mark@compyle.ai
