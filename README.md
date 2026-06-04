@@ -1,5 +1,3 @@
-CTO @ Compyle
-
-Building the future of building
+Building @ Compyle
 
 Contact me at mark@compyle.ai
